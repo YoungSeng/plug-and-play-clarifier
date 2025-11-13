@@ -4,13 +4,13 @@ Code for the AAAI 2026 paper **“Plug-and-Play Clarifier: A Zero-Shot Multimoda
 
 📄 Paper (arXiv): [https://arxiv.org/pdf/2511.08971](https://arxiv.org/pdf/2511.08971)
 
-## Video
+🎬 Demo Video (YouTube): [https://www.youtube.com/shorts/yIeMgfe4Kc4](https://www.youtube.com/shorts/yIeMgfe4Kc4)
 
-<video src="https://github.com/YoungSeng/plug-and-play-clarifier/raw/main/assets/video-demo-compressed.mp4" controls width="640">
-  Your browser does not support the video tag.
-</video>
+📺 Video (Bilibili): [https://www.bilibili.com/video/BV1mtC4BcEWA/](https://www.bilibili.com/video/BV1mtC4BcEWA/)
 
-https://github.com/YoungSeng/plug-and-play-clarifier/raw/main/assets/video-demo-compressed.mp4
+<p align="center">
+  <img src="./assets/framework.png" width="640" alt="App screenshot">
+</p>
 
 This repository provides three plug-and-play clarification modules:
 
