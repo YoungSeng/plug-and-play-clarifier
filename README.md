@@ -4,6 +4,14 @@ Code for the AAAI 2026 paper **“Plug-and-Play Clarifier: A Zero-Shot Multimoda
 
 📄 Paper (arXiv): [https://arxiv.org/pdf/2511.08971](https://arxiv.org/pdf/2511.08971)
 
+## Video
+
+<video src="https://github.com/YoungSeng/plug-and-play-clarifier/raw/main/assets/video-demo-compressed.mp4" controls width="640">
+  Your browser does not support the video tag.
+</video>
+
+https://github.com/YoungSeng/plug-and-play-clarifier/raw/main/assets/video-demo-compressed.mp4
+
 This repository provides three plug-and-play clarification modules:
 
 1. **Text-based Clarifier** – multi-turn question asking for vague language instructions.
