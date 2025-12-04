@@ -22,11 +22,11 @@ This repository provides three plug-and-play clarification modules:
 
 ## Environment
 
-Tested on:
-
+Tested on NVIDIA GeForce RTX 4090, CUDA 12.2.
+<!--
 * **NVIDIA H200**, CUDA 12.4
 * **NVIDIA GeForce RTX 4090**, CUDA 12.2
-
+-->
 Other modern GPUs should also work.
 
 ---
