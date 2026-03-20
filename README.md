@@ -2,6 +2,8 @@
 
 Code for the AAAI 2026 paper **“Plug-and-Play Clarifier: A Zero-Shot Multimodal Framework for Egocentric Intent Disambiguation”**.
 
+🏛️ **Conference Archive (Paper & Poster)**: [https://ojs.aaai.org/index.php/AAAI/article/view/38851](https://ojs.aaai.org/index.php/AAAI/article/view/38851)
+
 📄 Paper (arXiv): [https://arxiv.org/pdf/2511.08971](https://arxiv.org/pdf/2511.08971)
 
 🎬 Demo Video (YouTube): [https://www.youtube.com/shorts/yIeMgfe4Kc4](https://www.youtube.com/shorts/yIeMgfe4Kc4)
