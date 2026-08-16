@@ -530,12 +530,14 @@ Therefore, the public evaluation is conducted on **updated, publicly shareable s
 If you find this repository useful, please consider citing our paper:
 
 ```bibtex
-@inproceedings{yang2026plugandplayclarifier,
-  title     = {Plug-and-Play Clarifier: A Zero-Shot Multimodal Framework for Egocentric Intent Disambiguation},
-  author    = {Yang, Sicheng and Huang, Yukai and Cai, Weitong and Sun, Shitong and He, You and Deng, Jiankang and Zhang, Hang and Song, Jifei and Zhang, Zhensong},
-  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
-  year      = {2026},
-  note      = {To appear}
+@inproceedings{yang2026plug,
+  title={Plug-and-Play Clarifier: A Zero-Shot Multimodal Framework for Egocentric Intent Disambiguation},
+  author={Yang, Sicheng and Huang, Yukai and Cai, Weitong and Sun, Shitong and He, You and Deng, Jiankang and Zhang, Hang and Song, Jifei and Zhang, Zhensong},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={21},
+  pages={17921--17929},
+  year={2026}
 }
 ````
 
